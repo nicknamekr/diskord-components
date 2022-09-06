@@ -1,3 +1,7 @@
+
+# diskord-components
+## Forked version of discord-components
+
 <div align="center">
     <a href="https://pypi.org/project/discord-components"><img src="https://raw.githubusercontent.com/kiki7000/discord.py-components/master/.github/logo.png" alt="discord-components logo" height="128" style="border-radius: 50%"></a>
     <h1>discord-components</h1>
